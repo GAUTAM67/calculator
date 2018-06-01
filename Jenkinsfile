@@ -23,3 +23,5 @@ stages {
        sh "./gradlew jacocoTestCoverageVerification"
 }
 }
+}
+}
